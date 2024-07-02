@@ -1,0 +1,2793 @@
+repo_name: huhuhuHR/atlas
+report_id: 6aacf98250490cc3093c9664f8f6b406
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-02T01:32:02+00:00'
+requested_by: dolfinus
+provider: github
+branch: master
+detected_tools_count: 213
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/huhuhuHR/atlas
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/huhuhuHR/atlas
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/huhuhuHR/atlas
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/huhuhuHR/atlas
+  detection_source: Repo Metadata
+- name: Smarty
+  description: Template engine for PHP
+  website_url: http://www.smarty.net/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/huhuhuHR/atlas
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Shwetha GS
+  last_updated_on: 2016-04-11 11:26:28.000000000 Z
+- name: Avro
+  description: A data serialization framework
+  website_url: https://avro.apache.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4265/avro.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/kafka-bridge/pom.xml
+  detection_source: addons/kafka-bridge/pom.xml
+  last_updated_by: rmani
+  last_updated_on: 2018-04-20 05:56:21.000000000 Z
+- name: Backbone.js
+  description: Give your JS App some Backbone with Models, Views, Collections, and
+    Events
+  website_url: http://backbonejs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/1017/Screen_Shot_2012-04-28_at_8.52.15_PM.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2018-12-03 21:32:21.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 3.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: prasad pawar
+  last_updated_on: 2021-02-25 03:58:20.000000000 Z
+- name: D3.js
+  description: A JavaScript visualization library for HTML and SVG
+  website_url: http://d3js.org/
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/1491/HgKolWB5_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Shwetha GS
+  last_updated_on: 2016-04-11 11:26:28.000000000 Z
+- name: Dropzone.js
+  description: An open source library that provides drag and drop file uploads with
+    image previews
+  website_url: http://www.dropzonejs.com/
+  version: 5.7.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/6890/dropzonejs.com
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-10-09 06:24:51.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: Farhan Khan
+  last_updated_on: 2022-01-07 06:39:37.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Shwetha GS
+  last_updated_on: 2016-04-11 11:26:28.000000000 Z
+- name: Select2
+  description: The jQuery replacement for select boxes
+  website_url: https://select2.github.io/
+  version: 4.0.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/7488/select2.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-10-09 06:24:51.000000000 Z
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/common/pom.xml
+  detection_source: common/pom.xml
+  last_updated_by: apoorvnaik
+  last_updated_on: 2017-05-23 15:23:23.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/public/js/external_lib/atlas-lineage/package.json
+  detection_source: dashboardv2/public/js/external_lib/atlas-lineage/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2020-09-03 12:27:45.000000000 Z
+- name: guava
+  description: Google Core Libraries for Java 6+
+  website_url: https://github.com/google/guava
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/2970/wBjKn0ol.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: rmani
+  last_updated_on: 2017-10-09 22:03:57.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2020-10-13 14:31:41.000000000 Z
+- name: reactstrap
+  description: Easy to use React Bootstrap 4 components compatible with React
+  website_url: https://reactstrap.github.io
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/8935/0Xm63ShM_400x400__1_.jpg
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: Farhan Khan
+  last_updated_on: 2022-01-07 06:39:37.000000000 Z
+- name: styled-components
+  description: Visual primitives for the component age. Use the best bits of ES6 and
+    CSS to style your apps without stress.
+  website_url: https://styled-components.com
+  version: 4.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6749/styled-components.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2020-02-21 06:58:12.000000000 Z
+- name: Apache Hive
+  description: Data Warehouse Software for Reading, Writing, and Managing Large Datasets
+  website_url: https://hive.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Big Data Tools
+  image_url: https://img.stackshare.io/service/1911/27eb4217dfd5cb2d579cb56bbcc7b290_400x400.jpeg
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/falcon-bridge/src/test/resources/hive-site.xml
+  detection_source: addons/falcon-bridge/src/test/resources/hive-site.xml
+  last_updated_by: Shwetha GS
+  last_updated_on: 2015-12-23 09:10:49.000000000 Z
+- name: HBase
+  description: The Hadoop database, a distributed, scalable, big data store
+  website_url: http://hbase.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1043/HBase-Twitter3.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge-shim/pom.xml
+  detection_source: addons/hbase-bridge-shim/pom.xml
+  last_updated_by: rmani
+  last_updated_on: 2017-10-09 22:03:57.000000000 Z
+- name: Hadoop
+  description: Open-source software for reliable, scalable, distributed computing
+  website_url: http://hadoop.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1044/elephant_rgb_sq.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: Sarath Subramanian
+  last_updated_on: 2019-03-13 08:41:28.000000000 Z
+- name: JanusGraph
+  description: Open-source, distributed graph database
+  website_url: http://janusgraph.org
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Graph Databases
+  image_url: https://img.stackshare.io/service/7459/2llmmMVy_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/graphdb/janus-hbase2/pom.xml
+  detection_source: graphdb/janus-hbase2/pom.xml
+  last_updated_by: Pinal Shah
+  last_updated_on: 2021-10-29 16:33:30.000000000 Z
+- name: Kafka
+  description: Distributed, fault tolerant, high throughput pub-sub messaging system
+  website_url: http://kafka.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/common/pom.xml
+  detection_source: common/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2020-09-22 06:28:10.000000000 Z
+- name: Sqoop
+  description: A tool designed for efficiently transferring bulk data between Apache
+    Hadoop and structured datastores
+  website_url: https://sqoop.apache.org/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/4518/sqoop.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/sqoop-bridge-shim/pom.xml
+  detection_source: addons/sqoop-bridge-shim/pom.xml
+  last_updated_by: Shwetha GS
+  last_updated_on: 2016-07-08 06:01:10.000000000 Z
+- name: Apache Maven
+  description: Apache build manager for Java projects.
+  website_url: http://maven.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dev-support/atlas-docker/Dockerfile
+  detection_source: dev-support/atlas-docker/Dockerfile
+  last_updated_by: jzonthemtn
+  last_updated_on: 2019-03-04 14:09:20.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.11.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/public/js/external_lib/atlas-lineage/package-lock.json
+  detection_source: dashboardv2/public/js/external_lib/atlas-lineage/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2020-09-03 12:27:45.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/atlas
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/public/js/external_lib/atlas-lineage/package.json
+  detection_source: dashboardv2/public/js/external_lib/atlas-lineage/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2020-09-03 12:27:45.000000000 Z
+- name: Eclipse
+  description: IDE for Java EE Developers
+  website_url: https://www.eclipse.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1446/8cyY6D_m.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2020-10-23 18:19:56.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/huhuhuHR/atlas
+  detection_source: Repo Metadata
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 1.5.3
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-10-09 06:24:51.000000000 Z
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: rmani
+  last_updated_on: 2017-10-09 22:03:57.000000000 Z
+- name: Log4j
+  description: A Java-based logging utility
+  website_url: https://logging.apache.org/log4j/2.x/
+  version: 1.7.30
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Logging Tools
+  image_url: https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/pom.xml
+  detection_source: addons/falcon-bridge/pom.xml
+  last_updated_by: Sarath Subramanian
+  last_updated_on: 2018-01-16 07:25:53.000000000 Z
+- name: Mockito
+  description: Tasty mocking framework for unit tests in Java
+  website_url: https://site.mockito.org/
+  version: 3.5.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/common/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: rmani
+  last_updated_on: 2017-10-09 22:03:57.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Shwetha GS
+  last_updated_on: 2016-04-11 11:26:28.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/intg/src/main/python/requirements.txt
+  detection_source: intg/src/main/python/requirements.txt
+  last_updated_by: jyoti0208
+  last_updated_on: 2020-10-13 18:54:31.000000000 Z
+- name: RequireJS
+  description: JavaScript file and module loader
+  website_url: http://requirejs.org/
+  version: 2.3.3
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/852/1781835.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2017-07-12 06:23:52.000000000 Z
+- name: SLF4J
+  description: Simple logging facade for Java
+  website_url: http://slf4j.org/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/falcon-bridge/pom.xml
+  detection_source: addons/falcon-bridge/pom.xml
+  last_updated_by: Shwetha GS
+  last_updated_on: 2015-12-23 09:10:49.000000000 Z
+- name: TestNG
+  description: A testing framework inspired from JUnit and NUnit
+  website_url: http://testng.org/doc/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/8900/no-img-open-source.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/falcon-bridge/pom.xml
+  detection_source: addons/falcon-bridge/pom.xml
+  last_updated_by: Shwetha GS
+  last_updated_on: 2016-04-11 11:15:52.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.44.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/public/js/external_lib/atlas-lineage/package-lock.json
+  detection_source: dashboardv2/public/js/external_lib/atlas-lineage/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2020-09-03 12:27:45.000000000 Z
+- name: Zookeeper
+  description: Because coordinating distributed systems is a Zoo
+  website_url: http://zookeeper.apache.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Open Source Service Discovery
+  image_url: https://img.stackshare.io/service/1528/apache-zookeeper.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: Shwetha GS
+  last_updated_on: 2016-11-16 06:57:47.000000000 Z
+- name: flake8
+  description: Tool for style guide enforcement
+  website_url: https://github.com/PyCQA/flake8
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/4838/default_c37162891c64eca7fafe782d9c191e409aae1e93.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/intg/src/main/python/requirements-dev.txt
+  detection_source: intg/src/main/python/requirements-dev.txt
+  last_updated_by: Mariusz Górski
+  last_updated_on: 2020-12-29 01:30:32.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2019-09-17 12:02:31.000000000 Z
+- name: ANTLR
+  description: Posts by Terence Parr, The ANTLR guy, about ANTLR, StringTemplate,
+    parsing, and general computer language cruft.
+  website_url: http://www.antlr.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8585/a159037c4838e54e93d9f630a295c396_normal.jpeg
+  detection_source_url: https://github.com/huhuhuHR/atlas
+  detection_source: Repo Metadata
+- name: Apache Solr
+  description: An open source search platform
+  website_url: http://lucene.apache.org/solr/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Search Engines
+  image_url: https://img.stackshare.io/service/4483/default_2e67ca5c691a5ecab8b19ffaeb371128b4266409.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/graphdb/janus/pom.xml
+  detection_source: graphdb/janus/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: Elasticsearch
+  description: Open Source, Distributed, RESTful Search Engine
+  website_url: https://www.elastic.co/products/elasticsearch
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Search as a Service
+  image_url: https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/graphdb/janus/pom.xml
+  detection_source: graphdb/janus/pom.xml
+  last_updated_by: Pierre Padovani
+  last_updated_on: 2018-03-13 17:13:55.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.29.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-10-09 06:24:51.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/huhuhuHR/atlas
+  detection_source: Repo Metadata
+- name: Ubuntu
+  description: The leading OS for PC, tablet, phone and cloud
+  website_url: http://www.ubuntu.com/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dev-support/atlas-docker/Dockerfile
+  detection_source: dev-support/atlas-docker/Dockerfile
+  last_updated_by: jzonthemtn
+  last_updated_on: 2019-03-04 14:09:20.000000000 Z
+- name: Underscore
+  description: JavaScript's utility _ belt
+  website_url: http://underscorejs.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/1150/underscore-js.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Farhan Khan
+  last_updated_on: 2022-01-11 09:14:56.000000000 Z
+- name: XSLT
+  description: The official Twitter account for the sum of all knowledge, Wikipedia.
+    Overseen by @jeffelder.
+  website_url: https://en.wikipedia.org/wiki/XSLT
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4253/nZXfdUQq_normal.jpg
+  detection_source_url: https://github.com/huhuhuHR/atlas
+  detection_source: Repo Metadata
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.19.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2020-02-21 06:58:12.000000000 Z
+- name: docz
+  website_url: https://www.docz.site/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10755/no-img-open-source.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2020-02-21 06:58:12.000000000 Z
+- name: mypy
+  description: Developers of mypy, a Python variant with seamless dynamic and static
+    typing
+  website_url: http://mypy-lang.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7350/eaca159133a3901e24ddb407d1235c25_normal.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/intg/src/main/python/requirements-dev.txt
+  detection_source: intg/src/main/python/requirements-dev.txt
+  last_updated_by: Mariusz Górski
+  last_updated_on: 2020-12-29 01:30:32.000000000 Z
+- name: org.apache.cassandra:cassandra-all
+  description: The Apache Cassandra Project develops a highly scalable second-generation
+    distributed database
+  version: 2.1.8
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/repository/pom.xml
+  detection_source: repository/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+  vulnerabilities:
+  - name: Apache Cassandra vulnerable to Code Injection due to unsafe configuration
+    cve_id: CVE-2021-44521
+    cve_url: https://github.com/advisories/GHSA-8ffc-79xg-29w8
+    detected_date: Feb 26
+    severity: critical
+    first_patched: 3.0.26
+  - name: Authentication Bypass in Apache Cassandra
+    cve_id: CVE-2020-17516
+    cve_url: https://github.com/advisories/GHSA-2vxm-vp4c-fjfw
+    detected_date: Feb 9
+    severity: high
+    first_patched: 3.0.24
+  - name: Man-in-the-middle attack in Apache Cassandra
+    cve_id: CVE-2020-13946
+    cve_url: https://github.com/advisories/GHSA-24ww-mc5x-xc43
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 2.1.12
+- name: org.apache.hadoop:hadoop-common
+  description: Apache Hadoop Common
+  version: 3.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-11-16 00:46:56.000000000 Z
+  vulnerabilities:
+  - name: Path traversal in Hadoop
+    cve_id: CVE-2022-26612
+    cve_url: https://github.com/advisories/GHSA-gx2c-fvhc-ph4j
+    detected_date: Apr 13
+    severity: critical
+    first_patched: 3.2.3
+  - name: Apache Hadoop heap overflow before v2.10.2, v3.2.3, v3.3.2
+    cve_id: CVE-2021-37404
+    cve_url: https://github.com/advisories/GHSA-rmpj-7c96-mrg8
+    detected_date: Jun 17
+    severity: critical
+    first_patched: 3.2.3
+  - name: Apache Hadoop argument injection vulnerability
+    cve_id: CVE-2022-25168
+    cve_url: https://github.com/advisories/GHSA-8wm5-8h9c-47pc
+    detected_date: Aug 12
+    severity: critical
+    first_patched: 3.2.4
+  - name: Improper Privilege Management in Apache Hadoop
+    cve_id: CVE-2020-9492
+    cve_url: https://github.com/advisories/GHSA-f8vc-wfc8-hxqh
+    detected_date: Feb 10
+    severity: high
+    first_patched: 3.1.4
+- name: commons-fileupload:commons-fileupload
+  description: The Apache Commons FileUpload component provides a simple yet flexible
+    means of adding support for multipart file upload functionality to servlets and
+    web applications
+  version: 1.3.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/test-tools/pom.xml
+  detection_source: test-tools/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+  vulnerabilities:
+  - name: Apache Commons FileUpload denial of service vulnerability
+    cve_id: CVE-2023-24998
+    cve_url: https://github.com/advisories/GHSA-hfrx-6qgj-fp6c
+    detected_date: Feb 22
+    severity: high
+    first_patched: '1.5'
+- name: org.testng:testng
+  description: Testing framework for Java
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/graphdb/common/pom.xml
+  detection_source: addons/falcon-bridge/pom.xml
+  last_updated_by: chaitali borole
+  last_updated_on: 2021-09-01 06:42:25.000000000 Z
+  vulnerabilities:
+  - name: TestNG is vulnerable to Path Traversal
+    cve_id: CVE-2022-4065
+    cve_url: https://github.com/advisories/GHSA-rc2q-x9mf-w3vf
+    detected_date: Dec 3
+    severity: high
+    first_patched: 7.5.1
+- name: com.nimbusds:nimbus-jose-jwt
+  description: Java library for Javascript Object Signing and Encryption
+  version: 9.8.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2021-03-06 05:09:23.000000000 Z
+  vulnerabilities:
+  - name: Denial of Service in Connect2id Nimbus JOSE+JWT
+    cve_id: CVE-2023-52428
+    cve_url: https://github.com/advisories/GHSA-gvpg-vgmx-xg6w
+    detected_date: Mar 16
+    severity: moderate
+    first_patched: 9.37.2
+- name: cglib:cglib
+  description: Cglib is a powerful
+  version: 2.2.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: apoorvnaik
+  last_updated_on: 2017-05-23 15:23:23.000000000 Z
+- name: com.carrotsearch:hppc
+  description: High Performance Primitive Collections
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/repository/pom.xml
+  detection_source: repository/pom.xml
+  last_updated_by: chaitali borole
+  last_updated_on: 2020-10-22 12:47:51.000000000 Z
+- name: com.datastax.cassandra:cassandra-driver-core
+  description: A driver for Apache Cassandra 1.2+ that works exclusively with the
+    Cassandra Query Language version 3
+  version: 3.2.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/repository/pom.xml
+  detection_source: repository/pom.xml
+  last_updated_by: chaitali borole
+  last_updated_on: 2021-09-30 06:27:35.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-annotations
+  description: Core annotations used for value types
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/atlas-examples/sample-app/pom.xml
+  detection_source: atlas-examples/sample-app/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-core
+  description: Core Jackson processing abstractions
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hive-bridge/pom.xml
+  detection_source: addons/hive-bridge/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2020-10-23 18:19:56.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-databind
+  description: 'General data-binding functionality for Jackson: works on core streaming
+    API'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hive-bridge/pom.xml
+  detection_source: addons/hive-bridge/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2020-10-23 18:19:56.000000000 Z
+- name: com.fasterxml.jackson.jaxrs:jackson-jaxrs-base
+  description: Pile of code that is shared by all Jackson-based JAX-RS providers
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/intg/pom.xml
+  detection_source: intg/pom.xml
+  last_updated_by: nixonrodrigues
+  last_updated_on: 2018-03-10 06:32:37.000000000 Z
+- name: com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider
+  description: Functionality to handle JSON input/output for JAX-RS implementations
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/intg/pom.xml
+  detection_source: intg/pom.xml
+  last_updated_by: nixonrodrigues
+  last_updated_on: 2018-03-10 06:32:37.000000000 Z
+- name: com.google.guava:guava
+  description: Guava is a suite of core and expanded libraries that include utility
+    classes
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-11-16 00:46:56.000000000 Z
+- name: com.google.inject.extensions:guice-multibindings
+  description: Guice
+  version: 4.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/repository/pom.xml
+  detection_source: repository/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: com.google.inject.extensions:guice-throwingproviders
+  description: Guice
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: com.google.inject:guice
+  description: Guice is a lightweight dependency injection framework for Java 6 and
+    above
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2021-03-06 05:09:23.000000000 Z
+- name: com.googlecode.json-simple:json-simple
+  description: A simple Java toolkit for JSON
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/kafka-bridge/pom.xml
+  detection_source: addons/kafka-bridge/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-11-15 22:22:04.000000000 Z
+- name: com.opencsv:opencsv
+  description: A simple library for reading and writing CSV in Java
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/repository/pom.xml
+  detection_source: repository/pom.xml
+  last_updated_by: chaitali borole
+  last_updated_on: 2020-10-22 12:47:51.000000000 Z
+- name: com.sun.jersey.contribs:jersey-multipart
+  license: CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/client/pom.xml
+  detection_source: client/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2017-11-04 05:45:05.000000000 Z
+- name: com.sun.jersey.contribs:jersey-spring
+  license: CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2021-03-06 05:09:23.000000000 Z
+- name: com.sun.jersey:jersey-bundle
+  description: A bundle containing code of all jar-based modules that provide JAX-RS
+    and Jersey-related features
+  version: '1.19'
+  license: CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-11-16 00:46:56.000000000 Z
+- name: com.sun.jersey:jersey-client
+  license: CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/client/common/pom.xml
+  detection_source: client/common/pom.xml
+  last_updated_by: apoorvnaik
+  last_updated_on: 2017-09-26 19:13:02.000000000 Z
+- name: com.sun.jersey:jersey-core
+  license: CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2021-03-06 05:09:23.000000000 Z
+- name: com.sun.jersey:jersey-server
+  license: CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/impala-bridge/pom.xml
+  detection_source: addons/impala-bridge/pom.xml
+  last_updated_by: lina.li
+  last_updated_on: 2019-05-22 20:35:24.000000000 Z
+- name: com.sun.jersey:jersey-servlet
+  license: CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2021-03-06 05:09:23.000000000 Z
+- name: com.vividsolutions:jts
+  description: The JTS Topology Suite is an API for modelling and manipulating 2-dimensional
+    linear geometry
+  version: '1.13'
+  license: LGPL-3.0-only
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/test-tools/pom.xml
+  detection_source: test-tools/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: commons-cli:commons-cli
+  description: Apache Commons CLI provides a simple API for presenting
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/impala-bridge/pom.xml
+  detection_source: addons/impala-bridge/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: commons-codec:commons-codec
+  description: The Apache Commons Codec package contains simple encoder and decoders
+    for various formats such as Base64 and Hexadecimal
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/repository/pom.xml
+  detection_source: repository/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: commons-collections:commons-collections
+  description: Types that extend and augment the Java Collections Framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/storm-bridge/pom.xml
+  detection_source: addons/storm-bridge/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: commons-configuration:commons-configuration
+  description: Tools to assist in the reading of configuration/preferences files in
+    various formats
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/common/pom.xml
+  detection_source: common/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: commons-io:commons-io
+  description: The Apache Commons IO library contains utility classes
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/impala-bridge/pom.xml
+  detection_source: addons/impala-bridge/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: commons-lang:commons-lang
+  description: Commons Lang
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/impala-bridge/pom.xml
+  detection_source: addons/impala-bridge/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: commons-validator:commons-validator
+  description: Apache Commons Validator provides the building blocks for both client
+    side validation and server side data validation
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/intg/pom.xml
+  detection_source: intg/pom.xml
+  last_updated_by: chaitali borole
+  last_updated_on: 2022-10-31 05:34:32.000000000 Z
+- name: io.dropwizard.metrics:metrics-core
+  description: Metrics is a Java library which gives you unparalleled insight into
+    what your code does in production
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/storm-bridge-shim/pom.xml
+  detection_source: addons/storm-bridge-shim/pom.xml
+  last_updated_by: Pierre Padovani
+  last_updated_on: 2018-03-01 22:06:00.000000000 Z
+- name: io.dropwizard.metrics:metrics-ganglia
+  description: A reporter for Metrics which announces measurements to a Ganglia cluster
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/storm-bridge-shim/pom.xml
+  detection_source: addons/storm-bridge-shim/pom.xml
+  last_updated_by: Pierre Padovani
+  last_updated_on: 2018-03-01 22:06:00.000000000 Z
+- name: io.dropwizard.metrics:metrics-graphite
+  description: A reporter for Metrics which announces measurements to a Graphite server
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/storm-bridge-shim/pom.xml
+  detection_source: addons/storm-bridge-shim/pom.xml
+  last_updated_by: Pierre Padovani
+  last_updated_on: 2018-03-01 22:06:00.000000000 Z
+- name: javax.annotation:javax.annotation-api
+  description: Common Annotations for the JavaTM Platform API
+  version: 1.3.2
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/common/pom.xml
+  detection_source: common/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: javax.inject:javax.inject
+  description: The javax.inject API
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/common/pom.xml
+  detection_source: common/pom.xml
+  last_updated_by: Sarath Subramanian
+  last_updated_on: 2019-05-29 05:53:31.000000000 Z
+- name: javax.servlet.jsp:jsp-api
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2020-10-23 18:19:56.000000000 Z
+- name: javax.servlet:javax.servlet-api
+  description: Java.net - The Source for Java Technology Collaboration
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/authorization/pom.xml
+  detection_source: authorization/pom.xml
+  last_updated_by: nixonrodrigues
+  last_updated_on: 2018-03-19 11:02:59.000000000 Z
+- name: joda-time:joda-time
+  description: Date and time library to replace JDK date handling
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/repository/pom.xml
+  detection_source: repository/pom.xml
+  last_updated_by: Ashutosh Mestry
+  last_updated_on: 2017-12-10 20:51:34.000000000 Z
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: chaitali borole
+  last_updated_on: 2022-09-08 06:46:22.000000000 Z
+- name: net.java.dev.jna:jna
+  description: Java Native Access
+  version: 5.2.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2018-01-25 04:56:08.000000000 Z
+- name: org.antlr:antlr4-runtime
+  description: The ANTLR 4 Runtime
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/repository/pom.xml
+  detection_source: repository/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.apache.avro:avro
+  description: Avro core components
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/kafka-bridge/pom.xml
+  detection_source: addons/kafka-bridge/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-11-15 22:22:04.000000000 Z
+- name: org.apache.commons:commons-collections4
+  description: The Apache Commons Collections package contains types that extend and
+    augment the Java Collections Framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.apache.commons:commons-configuration2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-11-16 00:46:56.000000000 Z
+- name: org.apache.commons:commons-lang3
+  description: Apache Commons Lang
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/notification/pom.xml
+  detection_source: notification/pom.xml
+  last_updated_by: Ashutosh Mestry
+  last_updated_on: 2020-10-22 20:45:47.000000000 Z
+- name: org.apache.commons:commons-text
+  description: Apache Commons Text is a library focused on algorithms working on strings
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-11-16 00:46:56.000000000 Z
+- name: org.apache.curator:curator-client
+  description: Low-level API
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.apache.curator:curator-framework
+  description: High-level API that greatly simplifies using ZooKeeper
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.apache.curator:curator-recipes
+  description: All of the recipes listed on the ZooKeeper recipes doc
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.apache.hadoop:hadoop-annotations
+  description: Apache Hadoop Annotations
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-11-16 00:46:56.000000000 Z
+- name: org.apache.hadoop:hadoop-auth
+  description: Apache Hadoop Auth - Java HTTP SPNEGO
+  version: 3.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.apache.hadoop:hadoop-aws
+  description: This module contains code to support integration with Amazon Web Services
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.apache.hadoop:hadoop-client
+  description: Apache Hadoop Client
+  version: 3.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.apache.hadoop:hadoop-hdfs
+  description: Apache Hadoop HDFS
+  version: 3.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.apache.hadoop:hadoop-minicluster
+  description: Apache Hadoop Mini-Cluster
+  version: 3.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-11-16 00:46:56.000000000 Z
+- name: org.apache.hadoop:hadoop-minikdc
+  description: Apache Hadoop MiniKDC
+  version: 3.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-testing-util/pom.xml
+  detection_source: addons/hbase-testing-util/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.apache.hbase:hbase-annotations
+  description: Copy of Hadoop's annotations for HBase
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-testing-util/pom.xml
+  detection_source: addons/hbase-testing-util/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.apache.hbase:hbase-client
+  description: Client of HBase
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-11-16 00:46:56.000000000 Z
+- name: org.apache.hbase:hbase-common
+  description: Common functionality for HBase
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-11-16 00:46:56.000000000 Z
+- name: org.apache.hbase:hbase-hadoop-compat
+  description: Interfaces to be implemented in order to smooth over hadoop version
+    differences
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-11-16 00:46:56.000000000 Z
+- name: org.apache.hbase:hbase-hadoop2-compat
+  description: Interfaces to be implemented in order to smooth over hadoop version
+    differences
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-11-16 00:46:56.000000000 Z
+- name: org.apache.hbase:hbase-protocol
+  description: Protobuf protocol classes used by HBase to communicate
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-testing-util/pom.xml
+  detection_source: addons/hbase-testing-util/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.apache.hbase:hbase-server
+  description: Main functionality for HBase
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge-shim/pom.xml
+  detection_source: addons/hbase-bridge-shim/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.apache.hbase:hbase-testing-util
+  description: HBase Testing Utilities
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-11-16 00:46:56.000000000 Z
+- name: org.apache.hive:hive-cli
+  description: Hive is a data warehouse infrastructure built on top of Hadoop see
+    http://wiki.apache.org/hadoop/Hive
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hive-bridge/pom.xml
+  detection_source: addons/hive-bridge/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.apache.hive:hive-common
+  description: Hive is a data warehouse infrastructure built on top of Hadoop see
+    http://wiki.apache.org/hadoop/Hive
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/sqoop-bridge/pom.xml
+  detection_source: addons/sqoop-bridge/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.apache.hive:hive-exec
+  description: Hive is a data warehouse infrastructure built on top of Hadoop see
+    http://wiki.apache.org/hadoop/Hive
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hive-bridge-shim/pom.xml
+  detection_source: addons/hive-bridge-shim/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.apache.hive:hive-jdbc
+  description: Hive is a data warehouse infrastructure built on top of Hadoop see
+    http://wiki.apache.org/hadoop/Hive
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hive-bridge/pom.xml
+  detection_source: addons/hive-bridge/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.apache.hive:hive-metastore
+  description: Hive is a data warehouse infrastructure built on top of Hadoop see
+    http://wiki.apache.org/hadoop/Hive
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hive-bridge/pom.xml
+  detection_source: addons/hive-bridge/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.apache.httpcomponents:httpclient
+  description: Apache HttpComponents Client
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/kafka-bridge/pom.xml
+  detection_source: addons/kafka-bridge/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-11-15 22:22:04.000000000 Z
+- name: org.apache.httpcomponents:httpcore
+  description: Apache HttpComponents Core
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.apache.kafka:kafka-clients
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/common/pom.xml
+  detection_source: common/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.apache.logging.log4j:log4j-api
+  description: The Apache Log4j API
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/impala-bridge/pom.xml
+  detection_source: addons/impala-bridge/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.apache.logging.log4j:log4j-core
+  description: The Apache Log4j Implementation
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/impala-bridge/pom.xml
+  detection_source: addons/impala-bridge/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.apache.logging.log4j:log4j-web
+  description: Apache Log4j Adapters for Web Applications
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.apache.lucene:lucene-analyzers-common
+  description: Additional Analyzers
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/graphdb/janus/pom.xml
+  detection_source: graphdb/janus/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.apache.lucene:lucene-core
+  description: Apache Lucene Java Core
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/graphdb/janus/pom.xml
+  detection_source: graphdb/janus/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.apache.lucene:lucene-queryparser
+  description: Lucene QueryParsers module
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/graphdb/janus/pom.xml
+  detection_source: graphdb/janus/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.apache.lucene:lucene-spatial-extras
+  description: Advanced Spatial Shape Strategies for Apache Lucene
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/graphdb/janus/pom.xml
+  detection_source: graphdb/janus/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.apache.poi:poi
+  description: Apache POI - Java API To Access Microsoft Format Files
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/repository/pom.xml
+  detection_source: repository/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.apache.poi:poi-ooxml
+  description: Apache POI - Java API To Access Microsoft Format Files
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/repository/pom.xml
+  detection_source: repository/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.apache.solr:solr-solrj
+  description: Apache Solr Solrj
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/graphdb/janus/pom.xml
+  detection_source: graphdb/janus/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.apache.solr:solr-test-framework
+  description: Apache Solr Test Framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/test-tools/pom.xml
+  detection_source: test-tools/pom.xml
+  last_updated_by: Sarath Subramanian
+  last_updated_on: 2022-11-17 17:35:37.000000000 Z
+- name: org.apache.storm:storm-core
+  description: Storm Core Java API and Clojure implementation
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/storm-bridge-shim/pom.xml
+  detection_source: addons/storm-bridge-shim/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2023-03-30 23:51:50.000000000 Z
+- name: org.apache.tinkerpop:gremlin-core
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/graphdb/api/pom.xml
+  detection_source: graphdb/api/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.apache.tinkerpop:gremlin-groovy
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/graphdb/janus/pom.xml
+  detection_source: graphdb/janus/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.apache.tinkerpop:tinkergraph-gremlin
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/graphdb/janus/pom.xml
+  detection_source: graphdb/janus/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.apache.zookeeper:zookeeper
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.aspectj:aspectjrt
+  description: The runtime needed to execute a program using AspectJ
+  version: 1.8.9
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.aspectj:aspectjweaver
+  description: The AspectJ weaver introduces advices to java classes
+  version: 1.8.9
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.cassandraunit:cassandra-unit
+  description: Test framekork to develop with Cassandra
+  version: 2.0.2
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/repository/pom.xml
+  detection_source: repository/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.codehaus.jettison:jettison
+  description: A StAX implementation for JSON
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/graphdb/api/pom.xml
+  detection_source: graphdb/api/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.easymock:easymock
+  description: EasyMock provides an easy way to create Mock Objects for interfaces
+    and classes generating them on the fly
+  version: '3.4'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.eclipse.jetty:jetty-server
+  description: The core jetty server artifact
+  license: Apache-2.0,EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/falcon-bridge/pom.xml
+  detection_source: addons/falcon-bridge/pom.xml
+  last_updated_by: chaitali borole
+  last_updated_on: 2021-09-01 06:42:25.000000000 Z
+- name: org.eclipse.jetty:jetty-servlet
+  description: Jetty Servlet Container
+  license: Apache-2.0,EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.eclipse.jetty:jetty-util
+  description: Utility classes for Jetty
+  license: Apache-2.0,EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/storm-bridge/pom.xml
+  detection_source: addons/storm-bridge/pom.xml
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2023-03-30 23:51:50.000000000 Z
+- name: org.eclipse.jetty:jetty-webapp
+  description: Jetty web application support
+  license: Apache-2.0,EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/addons/hbase-bridge/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.elasticsearch.client:elasticsearch-rest-high-level-client
+  description: Elasticsearch subproject :client:rest-high-level
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/graphdb/janus/pom.xml
+  detection_source: graphdb/janus/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.glassfish:javax.el
+  description: Obsolete EL3 fork
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.janusgraph:janusgraph-core
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/graphdb/janus-hbase2/pom.xml
+  detection_source: graphdb/janus-hbase2/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.mockito:mockito-all
+  description: Mock objects library for java
+  version: 1.9.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/graphdb/common/pom.xml
+  detection_source: addons/hbase-bridge/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.mockito:mockito-core
+  description: Mockito mock objects library core API and implementation
+  version: 3.5.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/common/pom.xml
+  detection_source: common/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.mockito:mockito-inline
+  description: Mockito preconfigured inline mock maker
+  version: 3.5.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/common/pom.xml
+  detection_source: common/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.slf4j:jul-to-slf4j
+  description: JUL to SLF4J bridge
+  version: 1.7.30
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.slf4j:slf4j-api
+  description: The slf4j API
+  version: 1.7.30
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/pom.xml
+  detection_source: addons/falcon-bridge/pom.xml
+  last_updated_by: chaitali borole
+  last_updated_on: 2021-09-01 06:42:25.000000000 Z
+- name: org.slf4j:slf4j-log4j12
+  description: SLF4J LOG4J-12 Binding
+  version: 1.7.30
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/pom.xml
+  detection_source: addons/falcon-bridge/pom.xml
+  last_updated_by: chaitali borole
+  last_updated_on: 2021-09-01 06:42:25.000000000 Z
+- name: org.springframework.security:spring-security-config
+  description: Spring-security-config
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.springframework.security:spring-security-core
+  description: Spring-security-core
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/authorization/pom.xml
+  detection_source: authorization/pom.xml
+  last_updated_by: chaitali borole
+  last_updated_on: 2021-09-01 06:42:25.000000000 Z
+- name: org.springframework.security:spring-security-ldap
+  description: Spring-security-ldap
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.springframework.security:spring-security-web
+  description: Spring-security-web
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.springframework:spring-aop
+  description: Spring AOP
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/repository/pom.xml
+  detection_source: repository/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.springframework:spring-beans
+  description: Spring Beans
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/common/pom.xml
+  detection_source: common/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.springframework:spring-context
+  description: Spring Context
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/common/pom.xml
+  detection_source: common/pom.xml
+  last_updated_by: Jayendra Parab
+  last_updated_on: 2022-10-26 08:25:31.000000000 Z
+- name: org.springframework:spring-core
+  description: Spring Core
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.springframework:spring-test
+  description: Spring TestContext Framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/repository/pom.xml
+  detection_source: repository/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.springframework:spring-web
+  description: Spring Web
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: org.springframework:spring-webmvc
+  description: Spring Web MVC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/webapp/pom.xml
+  detection_source: webapp/pom.xml
+  last_updated_by: prasad.pawar
+  last_updated_on: 2022-10-18 12:53:14.000000000 Z
+- name: gh-pages
+  description: Publish to a gh-pages branch on GitHub
+  package_url: https://www.npmjs.com/gh-pages
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15967/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2020-02-21 06:58:12.000000000 Z
+  vulnerabilities:
+  - name: tschaub gh-pages vulnerable to prototype pollution
+    cve_id: CVE-2022-37611
+    cve_url: https://github.com/advisories/GHSA-8mmm-9v2q-x3f9
+    detected_date: Apr 23
+    severity: critical
+    first_patched: 5.0.0
+- name: xml2js
+  description: Simple XML to JavaScript object converter
+  package_url: https://www.npmjs.com/xml2js
+  version: 0.4.19
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16122/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2020-02-21 06:58:12.000000000 Z
+  vulnerabilities:
+  - name: xml2js is vulnerable to prototype pollution
+    cve_id: CVE-2023-0842
+    cve_url: https://github.com/advisories/GHSA-776f-qx25-q3cc
+    detected_date: Apr 8
+    severity: moderate
+    first_patched: 0.5.0
+- name: "@babel/cli"
+  description: Babel command line
+  package_url: https://www.npmjs.com/@babel/cli
+  version: 7.16.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15848/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: Farhan Khan
+  last_updated_on: 2022-01-07 06:39:37.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.11.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/public/js/external_lib/atlas-lineage/package-lock.json
+  detection_source: dashboardv2/public/js/external_lib/atlas-lineage/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2020-09-03 12:27:45.000000000 Z
+- name: "@babel/plugin-syntax-dynamic-import"
+  description: Allow parsing of import
+  package_url: https://www.npmjs.com/@babel/plugin-syntax-dynamic-import
+  version: 7.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16080/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/public/js/external_lib/atlas-lineage/package-lock.json
+  detection_source: docs/package.json
+  last_updated_by: Farhan Khan
+  last_updated_on: 2022-01-07 06:39:37.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/public/js/external_lib/atlas-lineage/package-lock.json
+  detection_source: dashboardv2/public/js/external_lib/atlas-lineage/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2020-09-03 12:27:45.000000000 Z
+- name: "@babel/preset-react"
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/@babel/preset-react
+  version: 7.16.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15890/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: Farhan Khan
+  last_updated_on: 2022-01-07 06:39:37.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 8.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/public/js/external_lib/atlas-lineage/package-lock.json
+  detection_source: dashboardv2/public/js/external_lib/atlas-lineage/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2020-09-03 12:27:45.000000000 Z
+- name: babel-plugin-lodash
+  description: Modular Lodash builds without the hassle
+  package_url: https://www.npmjs.com/babel-plugin-lodash
+  version: 3.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16379/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: Farhan Khan
+  last_updated_on: 2022-01-07 06:39:37.000000000 Z
+- name: babel-plugin-react-transform
+  description: Babel plugin to instrument React components with custom transforms
+  package_url: https://www.npmjs.com/babel-plugin-react-transform
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16402/default_f1e46d83300118af569c79b07f85830bc788c2d1.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: Farhan Khan
+  last_updated_on: 2022-01-07 06:39:37.000000000 Z
+- name: babel-plugin-transform-class-properties
+  description: This plugin transforms static class properties as well as properties
+    declared with the property initializer syntax
+  package_url: https://www.npmjs.com/babel-plugin-transform-class-properties
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15928/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/public/js/external_lib/atlas-lineage/package-lock.json
+  detection_source: dashboardv2/public/js/external_lib/atlas-lineage/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2020-09-03 12:27:45.000000000 Z
+- name: d3
+  description: Data-Driven Documents
+  package_url: https://www.npmjs.com/d3
+  version: 5.14.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16224/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Shwetha GS
+  last_updated_on: 2016-04-11 11:26:28.000000000 Z
+- name: docz
+  description: It's has never been so easy to documents your things!
+  package_url: https://www.npmjs.com/docz
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17012/default_192373fe2b3ded7bb442c39dbf0f34ca3e5bed5d.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2020-02-21 06:58:12.000000000 Z
+- name: font-awesome
+  description: The iconic font and CSS framework
+  package_url: https://www.npmjs.com/font-awesome
+  version: 4.7.0
+  license: OFL-1.1,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16160/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2017-07-12 06:23:52.000000000 Z
+- name: grunt-cli
+  description: The grunt command line interface
+  package_url: https://www.npmjs.com/grunt-cli
+  version: 1.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16021/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-10-09 06:24:51.000000000 Z
+- name: grunt-contrib-clean
+  description: Clean files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-clean
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15939/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-10-09 06:24:51.000000000 Z
+- name: grunt-contrib-connect
+  description: Start a connect web server
+  package_url: https://www.npmjs.com/grunt-contrib-connect
+  version: 1.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16236/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-10-09 06:24:51.000000000 Z
+- name: grunt-contrib-copy
+  description: Copy files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-copy
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16056/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-10-09 06:24:51.000000000 Z
+- name: grunt-contrib-cssmin
+  description: Minify CSS
+  package_url: https://www.npmjs.com/grunt-contrib-cssmin
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16324/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-10-09 06:24:51.000000000 Z
+- name: grunt-contrib-htmlmin
+  description: Minify HTML
+  package_url: https://www.npmjs.com/grunt-contrib-htmlmin
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17474/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-10-09 06:24:51.000000000 Z
+- name: grunt-contrib-uglify
+  description: Minify JavaScript files with UglifyJS
+  package_url: https://www.npmjs.com/grunt-contrib-uglify
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-10-09 06:24:51.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-10-09 06:24:51.000000000 Z
+- name: grunt-sass
+  description: Compile Sass to CSS using node-sass
+  package_url: https://www.npmjs.com/grunt-sass
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16916/default_2e3ed47575edcaf407097e6171e3d4cb8681a6b3.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-10-09 06:24:51.000000000 Z
+- name: load-grunt-tasks
+  description: Load multiple grunt tasks using globbing patterns
+  package_url: https://www.npmjs.com/load-grunt-tasks
+  version: 3.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16062/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-10-09 06:24:51.000000000 Z
+- name: mini-css-extract-plugin
+  description: Extracts CSS into separate files
+  package_url: https://www.npmjs.com/mini-css-extract-plugin
+  version: 0.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15992/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/public/js/external_lib/atlas-lineage/package-lock.json
+  detection_source: dashboardv2/public/js/external_lib/atlas-lineage/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2020-09-03 12:27:45.000000000 Z
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.29.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-10-09 06:24:51.000000000 Z
+- name: moment-timezone
+  description: Parse and display moments in any timezone
+  package_url: https://www.npmjs.com/moment-timezone
+  version: 0.5.35
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16298/default_8b65a873fd3277d73483d6846fa38192391abf23.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: Madhan Neethiraj
+  last_updated_on: 2022-10-09 06:24:51.000000000 Z
+- name: node-sass
+  description: Wrapper around libsass
+  package_url: https://www.npmjs.com/node-sass
+  version: 7.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-04-07 09:50:20.000000000 Z
+- name: path
+  description: Node.JS path module
+  package_url: https://www.npmjs.com/path
+  version: 0.12.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16082/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/public/js/external_lib/atlas-lineage/package-lock.json
+  detection_source: dashboardv2/public/js/external_lib/atlas-lineage/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2020-09-03 12:27:45.000000000 Z
+- name: platform
+  description: A platform detection library that works on nearly all JavaScript platforms
+  package_url: https://www.npmjs.com/platform
+  version: 1.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18335/default_cef8b737c55fccc3604e91ce246aef30fc604c73.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: dashboardv2/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2017-10-03 13:18:05.000000000 Z
+- name: react-syntax-highlighter
+  description: Syntax highlighting component for react with prismjs or highlightjs
+    ast using inline styles
+  package_url: https://www.npmjs.com/react-syntax-highlighter
+  version: 11.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17323/default_78541a280e8cac42279d6c363e71e5b8f462e962.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: Farhan Khan
+  last_updated_on: 2022-01-07 06:39:37.000000000 Z
+- name: sass-loader
+  description: Sass loader for webpack
+  package_url: https://www.npmjs.com/sass-loader
+  version: 8.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/public/js/external_lib/atlas-lineage/package-lock.json
+  detection_source: dashboardv2/public/js/external_lib/atlas-lineage/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2020-09-03 12:27:45.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 3.3.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/public/js/external_lib/atlas-lineage/package-lock.json
+  detection_source: dashboardv2/public/js/external_lib/atlas-lineage/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2020-09-03 12:27:45.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 17.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/dashboardv2/package-lock.json
+  detection_source: docs/package.json
+  last_updated_by: kevalbhatt
+  last_updated_on: 2020-02-21 06:58:12.000000000 Z
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  version: '2.24'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/intg/src/main/python/requirements.txt
+  detection_source: intg/src/main/python/requirements.txt
+  last_updated_by: jyoti0208
+  last_updated_on: 2020-10-13 18:54:31.000000000 Z
+  vulnerabilities:
+  - name: Requests `Session` object does not verify requests after making first request
+      with verify=False
+    cve_id: CVE-2024-35195
+    cve_url: https://github.com/advisories/GHSA-9wx4-h78v-vm56
+    detected_date: May 21
+    severity: moderate
+    first_patched: 2.32.0
+  - name: Unintended leak of Proxy-Authorization header in requests
+    cve_id: CVE-2023-32681
+    cve_url: https://github.com/advisories/GHSA-j8r2-6x86-q33q
+    detected_date: May 23
+    severity: moderate
+    first_patched: 2.31.0
+- name: mypy
+  description: Optional static typing for Python
+  package_url: https://pypi.org/project/mypy
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20219/default_d4dd0466552a9776ca8535b869e22a3362790c94.png
+  detection_source_url: https://github.com/huhuhuHR/atlas/blob/master/intg/src/main/python/requirements-dev.txt
+  detection_source: intg/src/main/python/requirements-dev.txt
+  last_updated_by: Mariusz Górski
+  last_updated_on: 2020-12-29 01:30:32.000000000 Z
